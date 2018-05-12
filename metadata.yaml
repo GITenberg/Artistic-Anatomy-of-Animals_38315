@@ -1,0 +1,34 @@
+_repo: Artistic-Anatomy-of-Animals_38315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cuyer, Édouard
+    aliases:
+    - Cuyer, Edouard
+    - Cuyer, E. (Édouard)
+    birthdate: 1852
+    gutenberg_agent_id: '39387'
+    url: http://www.gutenberg.org/2009/agents/39387
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild
+- Animal
+gutenberg_issued: '2011-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anatomy, Artistic'
+- !lcc 'QL'
+- !lcsh 'Zoological illustration'
+- !lcc 'NC'
+- !lcsh 'Animals in art'
+title: Artistic Anatomy of Animals
+url: http://www.gutenberg.org/ebooks/38315

@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '39387'
     url: http://www.gutenberg.org/2009/agents/39387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38315#Artistic-Anatomy-of-Animals
 gutenberg_bookshelf:
 - Animals-Wild
 - Animal
